@@ -40,5 +40,5 @@
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagomurta&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagomurta&theme=transparent" />
 </p>
