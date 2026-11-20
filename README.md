@@ -1,44 +1,37 @@
-<h1>Hi there, I'm Thiago Silva Murta 👋</h1>
+# Hi, I'm Thiago! 👋
 
+Computer Science student at UFJF, focused on Backend Development and Software Engineering.
 
-### 💻 About me
+I'm interested in building reliable applications, designing REST APIs, working with relational databases, and writing maintainable code.
 
-- 🎓 Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">UFJF</a>
-- 🔧 Building **backend** projects focused on APIs and robust systems
-- 🗄️ Passionate about **Databases** and data architecture
-- 🚀 Goal: become a **Software Engineer**
-- 🇧🇷 Born in Brazil
+### About me
 
+- 🎓 Computer Science student at Federal University of Juiz de Fora (UFJF)
+- 💻 Focused on Backend Development with Python
+- 🧪 ISTQB Certified Tester Foundation Level (CTFL)
+- 🧠 Developing a personalized educational recommendation system for my undergraduate thesis
+- 📚 Interested in Software Architecture, Databases and Applied AI
 
-### 🎯 Interests
+### Tech Stack
 
-- Databases (relational & non-relational)
-- Backend Development
-- Software Architecture
-- Low-level languages & performance
+**Backend:** Python, FastAPI, Django, REST APIs
 
+**Databases:** PostgreSQL, MySQL
 
-### 🧰 Current stack
+**Frontend:** JavaScript, TypeScript, React
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,js,postgres,sqlite" />
-</p>
+**Tools:** Git, GitHub, Docker, Linux
 
+**Testing:** Pytest, Unit Testing
 
-### 📚 Currently learning
+### Featured Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,docker,linux" />
-</p>
+- **Educational Recommendation System:** Knowledge graphs and personalized learning recommendations.
+- **Teddit:** A Reddit-inspired application built with Django.
+- **Backend API:** REST API developed with FastAPI, SQLAlchemy and PostgreSQL.
+- **GitHub Repository Mining:** Data collection and filtering using the GitHub API.
 
-### 📬 How to reach me
+### Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/thiago-silva-murta-b77696216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagomurta&theme=transparent" />
-</p>
+- LinkedIn: [[Thiago Murta](https://linkedin.com/in/thiago-murta18/)]
+- Email: thiagosmurta@gmail.com
